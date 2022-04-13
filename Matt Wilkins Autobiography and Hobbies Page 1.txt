@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Matt Wilkins Autobiography and Hobbies</title>
+<meta name="author" content="About Matt Wilkins with his Autobiography and Hobbies">
+<meta name="description" content="This is an Autobiography about Matt Wilkins giving an overview of who he is along with talking about some of
+his hobbies/interests with saying what his favorite one is out of them all with why he enjoys that particular hobby/interest so much where
+he then goes into detail describing it through both text and photos.">
+<meta name="keywords" content="Matt Wilkins, Autobiography, Hobbies, Interests, Characteristics, Life, Travel, Sights, Landmarks, Personally,
+Places, Visited, Saw, Felt">
+
+<style type="text/css">
+h2 {margin: 250px: align-text:left}
+div.center-align {text-align: center}
+img.right {position: absolute}
+h1 {color: purple}
+h2 {color: purple}
+h4 {color: purple}
+p {color: purple}
+body {font-family: arial} 
+</style>
+
+</head>
+<body bgcolor="mediumaquamarine">
+
+<h1>Matt Wilkins Autobiography and Hobbies</h1>
+
+<h2>This is an Autobiography about Matt Wilkins giving an overview of who he is along with talking about some of
+his hobbies/interests with saying what his favorite one is out of them all with why he enjoys that particular hobby/interest so much where
+he then goes into detail describing it through both text and photos.</h2>
+
+<p><a href="file:///C:/Users/16122/Desktop/Web%20Design%20Class%20Items/Web%20Design%20Final%20Project/Matt%20Wilkins%20AutoBiography%20and%20Hobbies%20Page%202.html" target="Matt Wilkins Autobiography and Hobbies Page 2">United States Travels</a>
+<p><a href="file:///C:/Users/16122/Desktop/Web%20Design%20Class%20Items/Web%20Design%20Final%20Project/Matt%20Wilkins%20Autobiography%20and%20Hobbies%20Page%203.html" target="Matt Wilkins Autobiography and Hobbies Page 3">Europe Travels</a>
+
+<div class="center-align"><img src="Autobiography Pic.jpg" width="250" height="350"></div>  
+
+<p>Hi, my name is Matt Wilkins and I am 22 years old.  I was born in San Francisco California on January 14, 1999 where I moved to Minnesota in
+2007 and graduated High School from in 2017.  I currently go to College out in Massachusetts where I am studying Graphic Design and
+Software Development with looking to get a potential career somewhere in either of those fields after I graduate College.</p>
+
+<p>When it comes to some of my hobbies with what I enjoy doing during my free time, those include Skiing, Swimming, and even Traveling as
+well.  My most favorite one out of them all is traveling.  The reason why is because I always like to get out and explore new places
+around the world a lot that I have never been to before.  When it comes to just some of those many places that I have traveled to and
+visited up until this point, I did a lot of fun things and saw many different sights and landmarks
+as well that each made me feel a certain way personally.</p>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Matt Wilkins Autobiography and Hobbies</title>
+<meta name="author" content="About Matt Wilkins with his Autobiography and Hobbies">
+<meta name="description" content="This is an Autobiography about Matt Wilkins giving an overview of who he is along with talking about some of
+his hobbies/interests with saying what his favorite one is out of them all with why he enjoys that particular hobby/interest so much where
+he then goes into detail describing it through both text and photos">
+<meta name="keywords" content="Matt Wilkins, Autobiography, Hobbies, Interests, Characteristics, Life, Travel, Sights, Landmarks, Personally,
+Places, Visited, Saw, Felt">
+
+<style type="text/css">
+h2 {margin: 250px: align-text:left}
+div.center-align {text-align: center}
+img.right {position: absolute}
+h1 {color: purple}
+h2 {color: purple}
+h4 {color: purple}
+p {color: purple}
+body {font-family: arial} 
+</style>
+
+</head>
+<body bgcolor="mediumaquamarine">
+
+<h1>I have also visited some countries in Europe as well with some of them being Iceland, France, and the United Kingdom.</h1>
+
+<p><a href="file:///C:/Users/16122/Desktop/Web%20Design%20Class%20Items/Web%20Design%20Final%20Project/Matt%20Wilkins%20Autobiography%20and%20Hobbies%20Page%201.html" target="Matt Wilkins Autobiography and Hobbies Page 1">Home Page</a>
+<p><a href="file:///C:/Users/16122/Desktop/Web%20Design%20Class%20Items/Web%20Design%20Final%20Project/Matt%20Wilkins%20AutoBiography%20and%20Hobbies%20Page%202.html" target="Matt Wilkins Autobiography and Hobbies Page 2">United States Travels</a>
+  
+<p><img src="Hallgrimskirkja Church.jpg" width="140" height="240">For some of the things I did in Iceland, that would be that I went to 
+the Hallgrimskirkja Church where I got to go<img src="Hallgrimskirkja Church View.jpg" width="310" height="210">to the top of it,
+I got to go swimming in the Blue Lagoon, and I also did a lot of walking around with exploring the city I stayed in of Reykjavik too.
+For how I felt from all of this personally, that would be really happy and lucky that I got to go on this trip to Iceland
+and do all of these fun activities along with also feeling really big as well from being at the top of that Church with
+feeling really small too when I was standing outside near it.</p> 
+
+<p><img src="Eiffel Tower.jpg" width="140" height="230">For France, I got to see the Eiffel Tower, and some other<img src="Louvre Museum.jpg" width="295" height="170">
+places, sights, and structures as well<img src="Sacre-Coeur Basilica.jpg" width="265" height="170">including the
+Sacre-Coeur Basilica, and even the Louvre Museum.  The way that I personally felt when seeing all of this was really small when I was
+standing close to all of these tall structures along with also feeling really big when I went to the top of the Sacre-Coeur Basilica as well.
+Along with that, I also really enjoyed this trip overall and felt very lucky and happy to be able to go all the way to France to see all of
+this.</p><img src="Sacre-Coeur Basilica Top View.jpg" width="208" height="160">
+
+<p><img src="London Tower Bridge.jpg" width="235" height="180">For the other country of the United Kingdom,
+I<img src="Mountain.jpg" width="235" height="180">did a lot of hiking to the top of<img src="Edinburgh Castle.jpg" width="235" height="180"> 
+some big hills with looking out everywhere of how far I could see from how high up I was with also driving around a lot with seeing some
+really tall mountains as well.  Along with that, I also did a lot of walking around in the two places that I stayed at as well of Scotland and London where I saw a lot of sights and
+structures with some of those being the Edinburgh Castle, the Shard Building, the Big Eye Ferris Wheel, and even the London Tower Bridge as well.
+When it comes to how all of this made me feel personally overall, that would be really small when I was standing close to all of these sights and structures
+with also feeling really big as well when I was at the top of some of them.  Also, I felt really happy and lucky that I was able to go on this trip and had a lot of fun on it.</p>
+<img src="The Shard Building in London.jpg" width="180" height="235" align="left"><div class="center-align"><img src="Scotland Hill.jpg" width="244" height="208" align="right"><img src="London Eye.jpg" width="235" height="180"></div>
+
+</body>
+</html>

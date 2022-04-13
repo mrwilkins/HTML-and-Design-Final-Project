@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Matt Wilkins Autobiography and Hobbies</title>
+<meta name="author" content="About Matt Wilkins with his Autobiography and Hobbies">
+<meta name="description" content="This is an Autobiography about Matt Wilkins giving an overview of who he is along with talking about some of
+his hobbies/interests with saying what his favorite one is out of them all with why he enjoys that particular hobby/interest so much where
+he then goes into detail describing it through both text and photos">
+<meta name="keywords" content="Matt Wilkins, Autobiography, Hobbies, Interests, Characteristics, Life, Travel, Sights, Landmarks, Personally,
+Places, Visited, Saw, Felt">
+
+<style type="text/css">
+h2 {margin: 250px: align-text:left}
+div.center-align {text-align: center}
+img.right {position: absolute}
+h1 {color: purple}
+h2 {color: purple}
+h4 {color: purple}
+p {color: purple}
+body {font-family: arial} 
+</style>
+
+</head>
+<body bgcolor="mediumaquamarine">
+
+<h1>For some of those places that I visited, that would be some states in the United States being the Grand Canyon in the state of Arizona,
+California, and even Chicago in Illinois as well.</h1>
+
+<p><a href="file:///C:/Users/16122/Desktop/Web%20Design%20Class%20Items/Web%20Design%20Final%20Project/Matt%20Wilkins%20Autobiography%20and%20Hobbies%20Page%201.html" target="Matt Wilkins Autobiography and Hobbies Page 1">Home Page</a>
+<p><a href="file:///C:/Users/16122/Desktop/Web%20Design%20Class%20Items/Web%20Design%20Final%20Project/Matt%20Wilkins%20Autobiography%20and%20Hobbies%20Page%203.html" target="Matt Wilkins Autobiography and Hobbies Page 3">Europe Travels</a>
+
+<p><img src="Grand Canyon Photo.jpg" width="295" height="200">For a lot of the things I did and sights I saw in each of these states starting with
+the Grand Canyon in Arizona, that would be that I<img src="Grand Canyon Photo 2.jpg" width="295" height="200" align="right">drove around to
+different areas of the canyon along with also hiking down into them and back up the same way as well.  What I ended up seeing during each of those hikes and
+drives was lots of various different sights with taking some photos of them which created this overall feeling of happiness and amazement in me from all of that
+with everything I saw from this well-known landmark that also made me feel really big when I was up at the top of the canyon looking down, and really small
+when I was very far down the hike towards the more bottom of the canyon looking up.  Along with that, I also felt really happy and lucky that I got to visit one
+of America’s most well-known landmarks as well.</p>
+<img src="Grand Canyon Photo 3.jpg" width="160" height="255">
+
+<p><img src="Hollywood Sign.jpg" width="160" height="255">For the other state of California, I got to go
+see the Hollywood sign, go and swim at a lot of its beaches,<img src="Golden Gate Bridge.jpg" width="295" height="200">
+walk across the San Francisco Golden Gate Bridge, and even also see all of San Francisco at the top of a hill as well.  When it comes to how all
+of this made me feel personally, that would be really happy, amazed, excited, and also really big as well from being at the top of that hill looking
+out towards San Francisco from that high up.</p>
+<img src="View of San Francisco.jpg" width="295" height="200">
+
+<p><img src="Fountain.jpg" width="295" height="200">When it comes to that other state of Illinois in Chicago,<img src="Chicago Willis Tower.png" width="130" height="190">
+I did a lot of walking around the city and saw the Willis Tower where I got to go to the top of it, and also some other cool things as
+well with taking some photos of them.  When it comes to how I felt overall from seeing all of this during my trip there, that would be
+really happy, amazed, and also really small as well when I was standing right near a lot of these sights and structures along with feeling
+really big too when I was at the top of that Willis Tower Building looking out at the city of Chicago from that high up.</p>
+<img src="Sculpture.jpg" width="210" height="280"><img src="View from Chicago Willis Tower.jpg" width="295" height="200" align="right">
+
+</body>
+</html>
